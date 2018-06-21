@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VAP</string>
+    <string name="noveheslo">Password</string>
+    <string name="novehesloznova">Password Again</string>
+    <string name="nazovregistracia">Registration</string>
+    <string name="registraciaButton">Registrations</string>
+    <string name="title_activity_prihlasenie">Sign in</string>
+    <string name="hesloPrihlasenie">Password</string>
+    <string name="prihlasnieButton">Login</string>
+    <string name="nazovprihlasenie">Login</string>
+    <string name="setrenie">Tips for saving money</string>
+    <string name="web">https://americasaves.org/for-savers/make-a-plan-how-to-save-money/54-ways-to-save-money</string>
+    <string name="webproblem">Problem</string>
+    <string name="amount">Amount</string>
+    <string name="description">Description</string>
+    <string name="cant">cant</string>
+    <string name="addincome">Add income</string>
+    <string name="addoutgo">Add outgo</string>
+    <string name="changePss">Change password</string>
+    <string name="oldPassword">Old password</string>
+    <string name="newPassword">New password</string>
+    <string name="newPasswordAgain">New password again</string>
+    <string name="changePasswordButton">Change Password</string>
+    <string name="addnincome">New income</string>
+    <string name="addnoutgo">New outgo</string>
+    <string name="empty">Password is empty</string><string name="badPasswoerd">Bad password</string>
+    <string name="diff">Passwords is not match</string>
+    <string name="succes">Password was changed</string>
+    <string name="badOldPassword">Bad old password</string>
+    <string name="fileNotFound">File not found</string>
+    <string name="vap">My incomes and outgos</string>
+    <string name="in">Income</string>
+    <string name="out">Outgo</string>
+
+
+</resources>

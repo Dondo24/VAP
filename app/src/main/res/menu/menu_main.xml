@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/addincome"
+        android:orderInCategory="100"
+        android:title="@string/addincome"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/addoutgo"
+        android:orderInCategory="100"
+        android:title="@string/addoutgo"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/change"
+        android:orderInCategory="100"
+        android:title="@string/changePss"
+        app:showAsAction="never" />
+</menu>

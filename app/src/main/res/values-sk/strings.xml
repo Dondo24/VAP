@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VAP</string>
+    <string name="noveheslo">Heslo</string>
+    <string name="novehesloznova">Heslo Znova</string>
+    <string name="nazovregistracia">Registrácia</string>
+    <string name="registraciaButton">Registracia</string>
+    <string name="hesloPrihlasenie">Heslo</string>
+    <string name="prihlasnieButton">Prihlásenie</string>
+    <string name="nazovprihlasenie">Prihlásenie</string>
+    <string name="setrenie">Ako šetriť</string>
+    <string name="web">https://www.timemanagement.sk/20-praktickych-tipov-ako-usetrit-peniaze/</string>
+    <string name="webproblem">Nastal problem</string>
+    <string name="amount">Suma</string>
+    <string name="description">Poznamka</string>
+    <string name="cant">nemoze</string>
+    <string name="addincome">Pridaj príjem</string>
+    <string name="addoutgo">Pridaj výdavok</string>
+    <string name="changePss">Zmena hesla</string>
+    <string name="oldPassword">Stare heslo</string>
+    <string name="newPassword">Nove heslo</string>
+    <string name="newPasswordAgain">Nove heslo znova</string>
+    <string name="changePasswordButton">Zmena hesla</string>
+    <string name="addnincome">Nový príjem</string>
+    <string name="addnoutgo">Nový výdaj</string>
+    <string name="empty">Heslo je prazdne</string>
+    <string name="diff">Hesla sa nezhoduju</string>
+    <string name="succes">Heslo bolo zmenene</string>
+    <string name="badOldPassword">Zle staré heslo</string>
+    <string name="fileNotFound">Subor sa nenašiel</string>
+    <string name="cannotRead">Chyba</string>
+    <string name="badPasswoerd">Zle heslo</string>
+    <string name="vap">Moje prijmy a vydaje</string>
+    <string name="descriptiin">Popis</string>
+    <string name="in">Prijem</string>
+    <string name="out">Výdaj</string>
+</resources>

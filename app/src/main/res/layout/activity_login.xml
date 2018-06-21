@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/prihlasenieTextView"
+
+
+        android:layout_width="162dp"
+        android:layout_height="37dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="95dp"
+        android:text="@string/nazovprihlasenie"
+        android:textSize="30dp"
+        android:gravity="center"
+        tools:layout_editor_absoluteX="130dp"
+        tools:layout_editor_absoluteY="69dp" />
+
+
+
+    <EditText
+        android:id="@+id/hesloPrihlasenie"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/prihlasenieTextView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="50dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="@string/hesloPrihlasenie"
+        android:inputType="textPassword" />
+
+    <Button
+        android:id="@+id/prihlasenieButton"
+        android:layout_below="@id/hesloPrihlasenie"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:onClick="login"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="100dp"
+        android:gravity="center"
+        android:text="@string/prihlasnieButton" />
+
+    <TextView
+        android:id="@+id/setrenie"
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/prihlasenieButton"
+        android:layout_centerHorizontal="true"
+
+        android:layout_marginTop="5dp"
+
+        android:onClick="webView"
+        android:text="@string/setrenie"
+        android:textSize="13dp" />
+
+
+</RelativeLayout>
+
+
+
+
+</ScrollView>
